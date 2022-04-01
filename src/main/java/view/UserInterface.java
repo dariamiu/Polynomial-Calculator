@@ -6,7 +6,6 @@ import java.awt.event.ActionListener;
 
 public class UserInterface extends JFrame {
 
-
         private JTextField polynomial1Text;
         private JTextField polynomial2Text;
         private JTextField polynomialText;
